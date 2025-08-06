@@ -21,6 +21,8 @@ This project is a part of a hackathon run by https://www.katomaran.com
 flutter pub get
 flutter run
 
+### PROJECT
+This project is a part of a hackathon run by https://www.katomaran.com 
 
 ## Author
 BHARATH R
