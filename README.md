@@ -17,10 +17,10 @@ Include screenshots from your app (you can add those later).
 - Android Studio or VS Code
 
 ### Run the App
-```bash
+This project is a part of a hackathon run by https://www.katomaran.com 
 flutter pub get
 flutter run
-```
+
 
 ## Author
-Rakib Hasan
+BHARATH R
